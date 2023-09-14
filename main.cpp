@@ -5,7 +5,7 @@
 int main() {
     //merge hehe haha
     int x = 17;
-    x++;
+    x--;
     return 17;
 }
 
